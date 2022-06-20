@@ -7,7 +7,7 @@
             <b>
             Hello There
         <br>
-            I'm Chinmay, a Student & an aspiring Developer. 
+            I'm Chinmay,a Student & an aspiring Developer. 
             </b>
         <br>
         <br>
