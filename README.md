@@ -7,14 +7,14 @@
             <b>
             Hello There
         <br>
-            I'm Waishnav, a Student, Novice Programmer and Linux enthusiast.
+            I'm Chinmay, a Student, Novice Programmer and Linux enthusiast.
             </b>
         <br>
         <br>
           <image src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Nerd+Font&size=17&duration=3000&lines=I+learn+stuff+by+making+smth+out+of+it+;yet+It's+a+painful+method+to+learn+smth">
         <br>
             <b>
-            ~ Waishnav Deore ~
+            ~ Chinmay J ~
             </b>
         <br>
       </samp><br>
@@ -29,8 +29,7 @@
 <!-- Contact Me -->
 <p align="center">
     <samp>
-        <a href="https://twitter.com/waishnav_deore" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-        <a href="mailto:vaishnavdeore76@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+        <a href="mailto:mavenal2143@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
         <a href="https://discord.com/users/814462428997484574" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
       <h2></h2><br>
       <img src="https://komarev.com/ghpvc/?username=Waishnav&label=Profile+Views&color=2E3440" alt="waishnav
