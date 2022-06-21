@@ -10,6 +10,7 @@
             I'm Chinmay,a Student & an aspiring Developer. 
             </b>
         <br>
+          My skils: Python & JS dev.
         <br>
       </samp><br>
     </p>
