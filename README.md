@@ -10,7 +10,7 @@
             I'm Chinmay,a Student & an aspiring Developer. 
             </b>
         <br>
-          My skills: Python & JS dev.
+          Primary skills: C++, Python & JS dev.
         <br>
       </samp><br>
     </p>
